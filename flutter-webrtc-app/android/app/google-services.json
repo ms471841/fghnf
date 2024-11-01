@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "744354304125",
+    "project_id": "video-call-demo-a639d",
+    "storage_bucket": "video-call-demo-a639d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744354304125:android:2f6030d4342d3c29dc6114",
+        "android_client_info": {
+          "package_name": "com.example.flutter_webrtc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUMIP4e3P0tDBpAR4ncrWC0vCeCA5uIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744354304125:android:fee5f703c63d5783dc6114",
+        "android_client_info": {
+          "package_name": "com.example.video_streaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUMIP4e3P0tDBpAR4ncrWC0vCeCA5uIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
